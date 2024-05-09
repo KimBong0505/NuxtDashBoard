@@ -31,7 +31,7 @@ const items = ref([
   },
   {
     title: "Transactions",
-    path: "/transactions",
+    path: "/transactions/",
     icon: "grommet-icons:transaction",
   },
   {
